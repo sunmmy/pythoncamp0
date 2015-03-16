@@ -56,7 +56,9 @@ http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0
 ## gitbook
 
 ###是什么
-电子书制作平台，可以对github有特殊支持
+电子书制作平台，可以对github有特殊支持。
+
+需要进行关联
 
 
 
